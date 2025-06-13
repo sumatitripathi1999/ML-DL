@@ -8,7 +8,7 @@ Welcome to my collection of end-to-end data science projects. Each project demon
 
 ### 1. 💼 Customer Churn Prediction
 - **Objective**: Predict customer churn and identify key factors contributing to it.
-- **Tech Stack**: Python, Scikit-learn, Power BI
+- **Tech Stack**: Python, Scikit-learn
 - **Model(s)**: Logistic Regression, Decision Tree, Random Forest
 - **Result**: Achieved 78% accuracy with feature importance insights visualized in Power BI.
 
